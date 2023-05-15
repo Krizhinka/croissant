@@ -35,3 +35,12 @@ p {
 .contact-link {
   margin: 20px;
 }
+
+a {
+  color: green;
+font-size: 18px;
+}
+ .email {
+  color: blue;
+font-size: 20px;
+ }
