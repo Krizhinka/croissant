@@ -15,7 +15,7 @@ p {
 
 .photo {
   display: block;
-  margin: 50px auto;
+  margin: 40px auto;
   max-width: 100%;
   border-radius: 20px;
   box-shadow: 0 0 20px 10px rgba(75, 39, 10, 0.418);
